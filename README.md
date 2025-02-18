@@ -1,2 +1,2 @@
 # XJDownloadManager
-Windows Download Manager 
+Download Manager for Windows
